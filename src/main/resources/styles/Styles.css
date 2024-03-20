@@ -1,0 +1,82 @@
+#bt1 {
+   -fx-background-color:Black;   
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+    -fx-border-radius: 5;  
+    -fx-font-size:20;     
+}
+
+#bt1:hover {
+    -fx-background-color:blue;   
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+    -fx-border-radius: 5;  
+    -fx-font-size:22;     
+}
+
+#paneMain{
+    -fx-background-image: url("file:/Users/ander/eclipse-workspace/exemplo/src/main/resources/backgroundMain.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#paneMenu{
+    -fx-background-image: url("file:/Users/ander/eclipse-workspace/exemplo/src/main/resources/backgroundMenu.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#panePerguntas{
+    -fx-background-image: url("file:/Users/ander/eclipse-workspace/exemplo/src/main/resources/backgroundMenu.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#paneCadastro{
+    -fx-background-image: url("file:/Users/ander/eclipse-workspace/exemplo/src/main/resources/backgroundCadastro.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#btCadastro {
+   -fx-background-color:Black;   
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+    -fx-border-radius: 10;  
+    -fx-font-size:20;     
+}
+
+#btCadastro:hover {
+    -fx-background-color:blue;   
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+    -fx-border-radius: 10;  
+    -fx-font-size:22;     
+}
+
+
+#BotaoMenu {
+      
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+    -fx-border-radius: 10;  
+    -fx-font-size:20;     
+}
+
+#BotaoMenu:hover {
+    -fx-background-color:blue;   
+    -fx-font-family:courier_new;   
+    -fx-text-fill:White;  
+    -fx-border-color: Wheat;  
+    -fx-border-radius: 10;  
+    -fx-font-size:22;     
+}
